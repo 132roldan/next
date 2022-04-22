@@ -25,7 +25,7 @@ export default function Home() {
         <section>
         <h3>About </h3>
         <p>
-        I'm a technical in electronics who started learning to program micro controllers.
+        I am a technical in electronics who started learning to program micro controllers.
         Later I started programming webpages and fell in love with it
       </p>
       <h3>Formation</h3>
